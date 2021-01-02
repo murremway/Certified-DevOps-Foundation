@@ -1,4 +1,4 @@
-# Certified DevOps Foundation 2
+# Certified DevOps Foundation
 
 Certified DevOps Foundation Workshop by **DevOps University** is one of the most popular workshop programs today. DevOps University promotes sharing DevOps best practices and knowledge through its powerful community support.
 
